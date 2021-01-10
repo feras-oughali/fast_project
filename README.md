@@ -1,18 +1,18 @@
-# Project name here
-> Summary description here.
+# Fast Project
+> A template for fastai project.
 
 
-This file will become your README and also the index of your documentation.
+A template for fastai project.
 
 ## Install
 
-`pip install your_project_name`
+`pip install fast_project`
 
 ## How to use
 
 Fill me in please! Don't forget code examples:
 
-```
+```python
 1+1
 ```
 
