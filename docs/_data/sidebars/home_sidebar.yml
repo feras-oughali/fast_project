@@ -12,6 +12,9 @@ entries:
     - output: web,pdf
       title: fast_project
       url: core.html
+    - output: web,pdf
+      title: Title
+      url: proj.html
     output: web
     title: fast_project
   output: web
