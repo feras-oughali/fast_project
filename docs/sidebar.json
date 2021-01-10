@@ -1,7 +1,7 @@
 {
   "fast_project": {
     "Overview": "/",
-    "fast_project": "core.html",
-    "Title": "proj.html"
+    "core": "core.html",
+    "proj": "proj.html"
   }
 }

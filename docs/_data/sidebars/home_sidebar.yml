@@ -10,10 +10,10 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: fast_project
+      title: core
       url: core.html
     - output: web,pdf
-      title: Title
+      title: proj
       url: proj.html
     output: web
     title: fast_project
