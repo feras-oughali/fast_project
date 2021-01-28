@@ -2,6 +2,7 @@
   "fast_project": {
     "Overview": "/",
     "core": "core.html",
-    "proj": "proj.html"
+    "proj": "proj.html",
+    "Loss": "loss.html"
   }
 }
