@@ -3,10 +3,13 @@
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"say_hello": "00_core.ipynb",
-         "say_hi": "01_proj.ipynb"}
+         "say_hi": "01_proj.ipynb",
+         "mse": "02_loss.ipynb",
+         "MSE_": "02_loss.ipynb"}
 
 modules = ["core.py",
-           "proj.py"]
+           "proj.py",
+           "loss.py"]
 
 doc_url = "https://feras-oughali.github.io/fast_project/"
 
